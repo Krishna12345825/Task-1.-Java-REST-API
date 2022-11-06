@@ -32,6 +32,7 @@ any other HTTP client.
 -  Deleting a Created Actor
 -  Updating the Created actor	
 
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image0.png)
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image2.png)
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image3.png)
