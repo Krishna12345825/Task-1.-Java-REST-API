@@ -25,6 +25,12 @@ any other HTTP client.
 
 
 
+# Contents
+- show in mongodb compass ui
+-  Adding a Actor
+-  Viewing Created Actor
+-  Deleting a Created Actor
+-  Updating the Created actor	
 
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.004.png)
 
