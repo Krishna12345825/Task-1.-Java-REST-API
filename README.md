@@ -32,6 +32,6 @@ any other HTTP client.
 -  Deleting a Created Actor
 -  Updating the Created actor	
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.004.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
 
 
