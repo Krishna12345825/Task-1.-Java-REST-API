@@ -23,3 +23,9 @@ contains this string and return one or more servers found. Return 404 if nothing
 Be sure that you can show how your application responds to requests using postman, curl or
 any other HTTP client.
 
+
+
+
+![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.004.png)
+
+
