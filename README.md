@@ -33,5 +33,10 @@ any other HTTP client.
 -  Updating the Created actor	
 
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image2.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image3.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image4.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image5.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image6.png)
 
 
