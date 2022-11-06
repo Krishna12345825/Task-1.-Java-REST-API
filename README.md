@@ -17,7 +17,9 @@ example:
 
 ● GET (find) servers by name. The parameter is a string. Must check if a server name
 contains this string and return one or more servers found. Return 404 if nothing is found.
+
 “Server” objects should be stored in MongoDB database.
+
 Be sure that you can show how your application responds to requests using postman, curl or
 any other HTTP client.
 
