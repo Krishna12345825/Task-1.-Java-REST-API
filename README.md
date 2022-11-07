@@ -32,13 +32,30 @@ any other HTTP client.
 -  Viewing Created Actor
 -  Deleting a Created Actor
 -  Updating the Created actor	
+- PostMan
 
+
+## Mongodb Databases
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image0.png)
+
+## Project Folder Structure
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
+
+## Add  the data into Postman 
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image2.png)
+
+## Get all the data into Postman 
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image3.png)
+
+## Get the Data By Id
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image4.png)
+
+## Update all the data
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image5.png)
+
+## Delete the Data By Id
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image6.png)
 
 
+
+# THANK YOU
